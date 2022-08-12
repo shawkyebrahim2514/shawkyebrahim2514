@@ -1,7 +1,7 @@
-### Hi there 👋
+## Hi there 👋
 My name is Shawky Ebrahim
 
-I am a student of computer science and artificial intelligence at Cairo university
+I am a student of computer science and artificial intelligence Cairo university
 
 <!--
 **shawkyebrahim2514/shawkyebrahim2514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,14 +19,22 @@ Here are some ideas to get you started:
 -->
 
 ### Programming languages:
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"> <img height="50" src="https://user-images.githubusercontent.com/101745968/178999059-8c16afce-f951-4468-ac1b-520278106248.png"> <img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+
+<p>
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
+<img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+</p>
 
 ### Tools
-
-<img height="50" src="https://user-images.githubusercontent.com/101745968/179000104-00862def-2896-4c19-a73d-f973c4169fbf.png"> <img height="50" src="https://user-images.githubusercontent.com/101745968/179000307-9d75e333-0a3b-4ede-aa6e-d6c390674d4d.png">
+<p>
+<img height="50" src="https://user-images.githubusercontent.com/101745968/178999059-8c16afce-f951-4468-ac1b-520278106248.png">
+<img height="50" src="https://user-images.githubusercontent.com/101745968/179000104-00862def-2896-4c19-a73d-f973c4169fbf.png">
+<img height="50" src="https://user-images.githubusercontent.com/101745968/179000307-9d75e333-0a3b-4ede-aa6e-d6c390674d4d.png">
+<img height="50" src="https://user-images.githubusercontent.com/101745968/184380212-076241cd-c01b-4249-926c-bf62106b29c2.png">
+</p>
 
 ### Follow me on:
-
+<p>
 <a href="https://www.linkedin.com/in/shawkyebrahim2514/">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
 </a> 
@@ -50,4 +58,16 @@ Here are some ideas to get you started:
 <a href="https://codeforces.com/profile/shawkyebrahim">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
 </a> 
-<br>
+</p>
+
+## <p align="center">My Github Stats</p>
+
+<p align="center">
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkyebrahim2514&theme=vue-dark" alt="shawkyebrahim2514" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shawkyebrahim2514&theme=vue-dark&show_icons=true&locale=en" alt="shawkyebrahim2514" /></p>
+
+<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shawky Ebrahim's streak" src="http://github-readme-streak-stats.herokuapp.com?user=shawkyebrahim2514&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
+
+</p>
