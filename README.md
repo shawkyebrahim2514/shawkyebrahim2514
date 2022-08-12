@@ -59,15 +59,37 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179003712-c6cac176-acd3-424f-bc51-b86e5a56ff4e.png">
 </a> 
 </p>
+</br> </br>
 
 ## <p align="center">My Github Stats</p>
 
 <p align="center">
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkyebrahim2514&theme=vue-dark" alt="shawkyebrahim2514" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkyebrahim2514&theme=vue-dark&layout=compact"/></p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shawkyebrahim2514&theme=vue-dark&show_icons=true&locale=en" alt="shawkyebrahim2514" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shawkyebrahim2514&theme=vue-dark&show_icons=true&locale=en"/></p>
 
-<p align="center"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shawky Ebrahim's streak" src="http://github-readme-streak-stats.herokuapp.com?user=shawkyebrahim2514&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shawkyebrahim2514&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
 
+</p>
+</br> </br>
+
+## <p align="center">Newest projects</p>
+<p align="center">
+  
+<a href="https://github.com/shawkyebrahim2514/text-editor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=text-editor&theme=vue-dark">
+</a>
+<a href="https://github.com/shawkyebrahim2514/notes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=notes&theme=vue-dark">
+</a>
+  
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/shawkyebrahim2514/student-system-management">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=student-system-management&theme=vue-dark">
+</a>
+  
 </p>
