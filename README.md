@@ -21,15 +21,18 @@ Here are some ideas to get you started:
 ### Programming languages:
 
 <p>
-<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">
+<img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;
+<img height="50" src="https://user-images.githubusercontent.com/101745968/178999780-091c7c40-e016-4825-bc88-1657786ef85f.png">&nbsp;&nbsp;
+<img width="100" alt="Asset 1@2x" src="https://user-images.githubusercontent.com/101745968/215353470-0cb70bf6-79e3-409c-8e75-42a2a46de9cd.png">&nbsp;&nbsp;
+<img width="100" alt="Asset 2@2x" src="https://user-images.githubusercontent.com/101745968/215353555-44785de9-da5d-49c3-9d17-3b91b32629ed.png">
+
 </p>
 
 ### Tools
 <p>
-<img height="50" src="https://user-images.githubusercontent.com/101745968/178999059-8c16afce-f951-4468-ac1b-520278106248.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/179000104-00862def-2896-4c19-a73d-f973c4169fbf.png">
-<img height="50" src="https://user-images.githubusercontent.com/101745968/179000307-9d75e333-0a3b-4ede-aa6e-d6c390674d4d.png">
+<img height="50" src="https://user-images.githubusercontent.com/101745968/178999059-8c16afce-f951-4468-ac1b-520278106248.png">&nbsp;&nbsp;
+<img height="50" src="https://user-images.githubusercontent.com/101745968/179000104-00862def-2896-4c19-a73d-f973c4169fbf.png">&nbsp;&nbsp;
+<img height="50" src="https://user-images.githubusercontent.com/101745968/179000307-9d75e333-0a3b-4ede-aa6e-d6c390674d4d.png">&nbsp;&nbsp;
 <img height="50" src="https://user-images.githubusercontent.com/101745968/184380212-076241cd-c01b-4249-926c-bf62106b29c2.png">
 </p>
 
