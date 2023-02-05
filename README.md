@@ -86,21 +86,11 @@ Here are some ideas to get you started:
 </br> </br>
 
 ## <p align="center">Newest projects</p>
-<p align="center">
-  
-<a href="https://github.com/shawkyebrahim2514/text-editor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=text-editor&theme=vue-dark">
-</a>
-<a href="https://github.com/shawkyebrahim2514/notes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=notes&theme=vue-dark">
-</a>
-  
-</p>
 
 <p align="center">
   
 <a href="https://github.com/shawkyebrahim2514/student-system-management">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=student-system-management&theme=vue-dark">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Student-Database-Management&theme=vue-dark">
 </a>
   
 </p>
