@@ -1,24 +1,18 @@
-## Hi there 👋
-My name is Shawky Ebrahim
+# <p align="center">Shawky Ebrahim Ahmed</p> 
 
-I am a student of computer science and artificial intelligence Cairo university
+I am a second-year computer science student at Cairo University. I am passionate about programming and solving problems using technology. I have experience working with CPP, Python, MySQL, Node.js, and Express.js.
 
-<!--
-**shawkyebrahim2514/shawkyebrahim2514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Dowload <a href="https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8CeXCOzK0_WC6o59?usp=share_link">my resume</a>
 
-Here are some ideas to get you started:
+### Education
+Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+*  Strong problem-solving skills
+*  Proficient in CPP with 1.5+ years of experience
+*  Knowledgeable in Python, MySQL, Node.js, and Express.js
 
-### Programming languages:
+### Programming languages
 
 <p>
 <img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png">&nbsp;&nbsp;
@@ -26,8 +20,6 @@ Here are some ideas to get you started:
 <img width="100" alt="Asset 1@2x" src="https://user-images.githubusercontent.com/101745968/215353470-0cb70bf6-79e3-409c-8e75-42a2a46de9cd.png">&nbsp;&nbsp;
 <img width="100" alt="Asset 2@2x" src="https://user-images.githubusercontent.com/101745968/215353555-44785de9-da5d-49c3-9d17-3b91b32629ed.png">&nbsp;&nbsp;
 <img width="100" alt="Asset 2@2x" src="https://user-images.githubusercontent.com/101745968/216843003-7927759a-4a8a-4f0e-80fa-08047f59646d.png">&nbsp;&nbsp;
-
-
 
 </p>
 
@@ -39,7 +31,7 @@ Here are some ideas to get you started:
 <img height="50" src="https://user-images.githubusercontent.com/101745968/184380212-076241cd-c01b-4249-926c-bf62106b29c2.png">
 </p>
 
-### Follow me on:
+### Follow me on
 <p>
 <a href="https://www.linkedin.com/in/shawkyebrahim2514/">
 <img height="50" src="https://user-images.githubusercontent.com/101745968/179001975-07bf6017-536a-4ed6-8094-ebfcb3de5df7.png">
@@ -72,25 +64,23 @@ Here are some ideas to get you started:
 </p>
 </br> </br>
 
-## <p align="center">My Github Stats</p>
-
-<p align="center">
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shawkyebrahim2514&theme=vue-dark&layout=compact"/></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=shawkyebrahim2514&theme=vue-dark&show_icons=true&locale=en"/></p>
-
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=shawkyebrahim2514&theme=vue-dark&date_format=j%20M%5B%20Y%5D"/></p>
-
-</p>
-</br> </br>
-
-## <p align="center">Newest projects</p>
+## <p align="center">Best Projects</p>
 
 <p align="center">
   
 <a href="https://github.com/shawkyebrahim2514/student-system-management">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Student-Database-Management&theme=vue-dark">
+</a>
+</p>
+
+<p align="center">
+  
+<a href="https://github.com/shawkyebrahim2514/Banking-System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Banking-System&theme=vue-dark">
+</a>
+  
+<a href="https://github.com/shawkyebrahim2514/Dynamic-Array">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Dynamic-Array&theme=vue-dark">
 </a>
   
 </p>
