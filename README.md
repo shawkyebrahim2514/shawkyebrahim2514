@@ -83,12 +83,17 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <a href="https://github.com/shawkyebrahim2514/student-system-management">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Student-Database-Management&theme=vue-dark">
 </a>
+  
+<a href="https://github.com/shawkyebrahim2514/Banking-System-Application">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Banking-System-Application&theme=vue-dark">
+</a>
+  
 </p>
 
 <p align="center">
 
-<a href="https://github.com/shawkyebrahim2514/Banking-System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Banking-System&theme=vue-dark">
+<a href="https://github.com/shawkyebrahim2514/Banking-System-Application-CPP">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Banking-System-Application-CPP&theme=vue-dark">
 </a>
 
 <a href="https://github.com/shawkyebrahim2514/Dynamic-Array">
