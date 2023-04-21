@@ -5,12 +5,14 @@ I am a second-year computer science student at Cairo University. I am passionate
 Download <a href="https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8CeXCOzK0_WC6o59?usp=share_link">my resume</a>
 
 ### Education
+
 Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025)
 
 ### Skills
-*  Strong problem-solving skills
-*  Proficient in CPP with 1.5+ years of experience
-*  Knowledgeable in Python, MySQL, Node.js, and Express.js
+
+* Strong problem-solving skills
+* Proficient in CPP with 1.5+ years of experience
+* Knowledgeable in Python, MySQL, Node.js, and Express.js
 
 ### Programming languages
 
@@ -18,9 +20,18 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <img height="50" src="./icons/programming languages/cpp.svg">&nbsp;&nbsp;
 <img height="50" src="./icons/programming languages/java.svg">&nbsp;&nbsp;
 <img height="50" src="./icons/programming languages/python.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/c-sharp.svg">&nbsp;&nbsp;
+</p>
+
+<p>
+<img height="50" src="./icons/programming languages/html5.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/css3.svg">&nbsp;&nbsp;
+<img height="50" src="./icons/programming languages/javascript.svg">&nbsp;&nbsp;
+</p>
+
+<p>
 <img width="100" src="./icons/programming languages/nodejs.svg">&nbsp;&nbsp;
 <img width="100" src="./icons/programming languages/expressjs.svg">&nbsp;&nbsp;
-
 </p>
 
 ### Databases
@@ -30,6 +41,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 </p>
 
 ### Tools
+
 <p>
 <img height="50" src="./icons/tools/design/xd.svg">&nbsp;&nbsp;
 <img height="50" src="./icons/tools/design/illustrator.svg">&nbsp;&nbsp;
@@ -45,6 +57,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 </p>
 
 ### Follow me on
+
 <p>
 <a href="https://www.linkedin.com/in/shawkyebrahim2514/">
 <img height="50" src="./icons/follow websites/linkedin.svg">
