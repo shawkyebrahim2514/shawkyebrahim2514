@@ -101,7 +101,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <p align="center">
 
-<a href="https://github.com/shawkyebrahim2514/student-system-management">
+<a href="https://github.com/shawkyebrahim2514/Student-Database-Management">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Student-Database-Management&theme=vue-dark">
 </a>
   
