@@ -1,6 +1,5 @@
 # <p align="center">Shawky Ebrahim Ahmed</p>
 
----
 
 I am a second-year computer science student at Cairo University. I am passionate about programming and solving problems using technology. I have experience working with CPP, Java, Python, MySQL, Node.js, and Express.js.
 
@@ -9,8 +8,6 @@ Download [my resume]('https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8C
 ## Education
 
 Cairo University, Bachelor of Science in Computer Science (expected graduation: 2025)
-
----
 
 ## Programming languages
 
@@ -36,16 +33,12 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <img height="30" src="./icons/programming languages/expressjs.svg">&nbsp;&nbsp;
 </p>
 
----
-
 ## Databases
 
 <p>
 <img height="50" src="./icons/programming languages/mysql.svg">&nbsp;&nbsp;
 <img height="50" src="./icons/programming languages/microsoft-sql-server.svg">&nbsp;&nbsp;
 </p>
-
----
 
 ## Tools
 
@@ -62,8 +55,6 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <img height="40" src="./icons/tools/programming/pycharm.svg">&nbsp;&nbsp;
 <img height="40" src="./icons/tools/programming/datagrip.svg">&nbsp;&nbsp;
 </p>
-
----
 
 ## Follow me on
 
@@ -99,8 +90,6 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <img height="30" src="./icons/follow websites/wuzzuf.svg">
 </a>
 </p>
-
----
 
 ## <p align="center">Best Projects</p>
 
