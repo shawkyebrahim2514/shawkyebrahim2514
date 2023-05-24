@@ -3,7 +3,7 @@
 
 I am a second-year computer science student at Cairo University. I am passionate about programming and solving problems using technology. I have experience working with CPP, Java, Python, MySQL, Node.js, and Express.js.
 
-Download [my resume]('https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8CeXCOzK0_WC6o59?usp=share_link')
+Download <a href='https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8CeXCOzK0_WC6o59?usp=share_link'>My Resume</a>
 
 ## Education
 
