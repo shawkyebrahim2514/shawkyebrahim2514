@@ -95,6 +95,10 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 
 <p align="center">
 
+<a href="https://github.com/shawkyebrahim2514/Quoting-Website">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Quoting-Website&theme=vue-dark">
+</a>
+
 <a href="https://github.com/shawkyebrahim2514/Islamic-Website">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=Islamic-Website&theme=vue-dark">
 </a>
