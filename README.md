@@ -46,6 +46,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <p>
   <img height="40" src="./icons/programming languages/nodejs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="30" src="./icons/programming languages/expressjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="40" src="./icons/programming languages/reactjs.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
