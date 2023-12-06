@@ -2,11 +2,16 @@
 
 # Shawky Ebrahim Ahmed
 
-I am a third-year computer science student at Cairo University.<br/>
-I am passionate about programming and building real applications<br/>
-You can explore my skills and contact me below<br/>
+I am a third-year computer science student at Cairo University.<br />
+I am passionate about programming and building real applications<br />
+I can be a valuable asset to your team and contribute to your projects with my skills and enthusiasm.<br />
+Please don't hesitate to check out my portfolio and my resume
 
-[Download My Resume](https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8CeXCOzK0_WC6o59?usp=share_link)
+## Important Links
+
+| My Portfolio | My Resume |
+| :--: | :--: |
+| [Link](https://shawkyebrahim.vercel.app/) | [Link](https://drive.google.com/drive/folders/1yJmOWWaRQpM32haB8CeXCOzK0_WC6o59?usp=share_link) |
 
 </div>
 
@@ -139,6 +144,12 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <div align="center">
 
 ## Best Projects
+
+<p>
+  <a href="https://github.com/shawkyebrahim2514/My-Portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=shawkyebrahim2514&repo=My-Portfolio&theme=vue-dark">
+  </a>
+</p>
 
 <p>
   <a href="https://github.com/shawkyebrahim2514/Quoting-Website">
