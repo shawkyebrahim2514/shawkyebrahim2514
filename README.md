@@ -46,6 +46,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
   <img height="50" src="./icons/programming languages/html5.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/css3.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/programming languages/javascript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/programming languages/typescript.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p>
@@ -79,6 +80,7 @@ Cairo University, Bachelor of Science in Computer Science (expected graduation: 
 <p>
   <img height="50" src="./icons/Technologies/graphQL.svg">&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="50" src="./icons/Technologies/jwt.svg">&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="50" src="./icons/Technologies/sanity.svg">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 </div>
