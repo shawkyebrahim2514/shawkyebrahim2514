@@ -2,7 +2,7 @@
 
 # Shawky Ebrahim Ahmed
 
-I am a third-year computer science student at Cairo University.<br />
+I am a Software Engineer at Microsoft.<br />
 I am passionate about programming and building real applications<br />
 I can be a valuable asset to your team and contribute to your projects with my skills and enthusiasm.<br />
 Please don't hesitate to check out my portfolio and my resume
